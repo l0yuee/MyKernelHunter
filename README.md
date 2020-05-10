@@ -21,6 +21,6 @@
 4. 查看SSDT、ShadowSSDT、
 5. 查看驱动模块
 
-![](img/1.png)
+![image1](./img/1.png)
 
-![](img/2.png)
+![image2](./img/2.png)
